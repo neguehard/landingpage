@@ -30,7 +30,7 @@
               <a class="nav-link js-scroll-trigger" href="#faq">FAQ</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#">Login</a>
+              <a class="nav-link js-scroll-trigger" href="https://flylenstest.online/">Login</a>
             </li>
           </ul>
         </div>
@@ -188,7 +188,7 @@ develop our project as well as possible during these 2 years.</p>
           <div class="col-sm-4">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
-              <h4>Victor Sorais</h4>
+              <h4>Nathan</h4>
               <p class="text-muted">Lead Hardware</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">

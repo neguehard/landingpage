@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@sideway/address": "^5.0.0",
+    "joi": "^17.7.0",
     "vue": "^2.5.17",
     "webpack": "^4.28.4"
   },
