@@ -30,7 +30,7 @@
               <a class="nav-link js-scroll-trigger" href="#faq">FAQ</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="https://flylenstest.online/">fr</a>
+              <a class="nav-link js-scroll-trigger" href="https://flylenstest.online/">Login</a>
             </li>
           </ul>
         </div>
