@@ -377,15 +377,13 @@ develop our project as well as possible during these 2 years.</p>
               <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">Most asked questions</h4>
-            <p class="text-muted">How much does it coest ?</p>
-            <p class="text-muted">How much does it coest ?</p>
-            <p class="text-muted">How much does it coest ?</p>
-            <p class="text-muted">How much does it coest ?</p>
-            <p class="text-muted">How much does it coest ?</p>
-            <p class="text-muted">How much does it coest ?</p>
-            <p class="text-muted">How much does it coest ?</p>
-            <p class="text-muted">How much does it coest ?</p>
-            <p class="text-muted">How much does it coest ?</p>
+            <p class="text-muted">What is the advantage of our drone ?</p>
+            <p class="text-muted">How much does the drone costs ?</p>
+            <p class="text-muted">How much does the subscription to the service costs</p>
+            <p class="text-muted">How long does the drone take to be delivered ?</p>
+            <p class="text-muted">How does the training takes place ?</p>
+            <p class="text-muted">Is there a guarantee ?</p>
+            <p class="text-muted">Will the price of the product chnage in the future ?</p>
 
           </div>
           <div class="col-md-4">
@@ -394,21 +392,15 @@ develop our project as well as possible during these 2 years.</p>
               <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">An autonomous drone</h4>
-            <p class="text-muted">Our project, Flylens, aims to develop an autonomous agricultural surveillance drone,
-allowing farmers to collect as much information as possible about their production and
-thus prevent themselves from dangers and optimize their harvests.
-We have identified potential users and defined the actions they will perform
-using our product in order to have the most precise vision of our customers, so that we can
-develop our project as well as possible during these 2 years.</p>
-          </div>
-          <div class="col-md-4">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="service-heading">A datasea</h4>
-            <p class="text-muted">With all those data collected, we aims to improve agriculture for all farmers. </p>
-          </div>
+            <p class="text-muted">Our drone is fully automatic and has a reduced training</p>
+            <p class="text-muted">Our drone costs 110$</p>
+            <p class="text-muted">The subscription costs an average of 100$ per month</p>
+            <p class="text-muted">Using delivery services as UPS the drone arrive in a 3 day window</p>
+            <p class="text-muted">A technician will come and show you a tutorial to use the Flylens service the best way possible.</p>
+            <p class="text-muted">Yes, there is a guarantee on the basic product of 2 years.</p>
+            <p class="text-muted">Yes, the price can change depending on the updates of the project.</p>
+            </div>
+         
         </div>
       </div>
     </section>
